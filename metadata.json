@@ -1,0 +1,7 @@
+{
+  "name": "Diamond Rewards",
+  "description": "Earn diamonds by watching ads and solving captchas. Redeem Free Fire diamonds and digital gift cards with instant MG69 code bonus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
